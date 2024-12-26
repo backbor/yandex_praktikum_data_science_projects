@@ -41,10 +41,12 @@ Stack: Phyton, Panda, Numpy,  matplotlib.pyplot, seaborn,  plotly.express
 Stack: Phyton, Panda, Numpy, sklearn, Matplotlib.pyplot, Seaborn,  Plotly.express
 
 ### [08_HR_analytics](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/08_HR_analytics)
-**Проект** HR ана
+**Проект** HR аналитика
 
 Задача: На основе данные с характеристиками сотрудников компании построить модель предсказания уровня удовлетворённости сотрудника.
 С учетом полученного уровня удовлетворенности построить модель предсказания увольнения сотрудника из компании.
 
 Stack: Python, Pandas, Numpy, sklearn, SciPy, Matplotlib.pyplot, Seaborn,  Plotly.express
+
+
 
