@@ -31,7 +31,7 @@ Stack: Phyton, Pandas, Numpy,  Matplotlib.pyplot, Seaborn,  Plotly.express
 
 Stack: Phyton, Panda, Numpy,  matplotlib.pyplot, seaborn,  plotly.express 
 
-### [02_borrower_reliability_survey](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/07_online_trading_customer%segmentation)
+### [07_online_trading_customer_segmentation](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/07_online_trading_customer%segmentation)
 **Проект** Обучение с учителем
 
 Задача: Разработать решение, которое позволит персонализировать предложения постоянным клиентам, чтобы увеличить их покупательскую активность.
