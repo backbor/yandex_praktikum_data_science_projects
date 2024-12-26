@@ -63,7 +63,7 @@ Stack: Python, Pandas, Scikit-learn, Bootstrap, Numpy, Matplotlib, SciPy
 Stack: Python, Pandas, Spark 
 
 
-### [04_market_film_distribution_survey](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/04_market_film_distribution_survey)
+### [11_car_price_prediction](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/11_car_price_prediction)
 **Проект** .Определение стоимости автомобилей
 
 Задача: Построить модель для определения стоимости автомобиля на основе предоставленных данных. Заказчику важны: • качество предсказания; • скорость предсказания; • время обучения.
