@@ -1,7 +1,7 @@
 ## Data Science
 Здесь собраны мои проекты из курса "Специалист по Data Science расширенный" Яндекс.Практикума
 
-### 02_borrower_reliability_survey(https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/02_borrower_reliability_survey)
+### [02_borrower_reliability_survey](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/02_borrower_reliability_survey)
 Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
 Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
