@@ -38,7 +38,7 @@ Stack: Phyton, Panda, Numpy,  matplotlib.pyplot, seaborn,  plotly.express
 Нужно построить модель, которая предскажет вероятность снижения покупательской активности клиента в следующие три месяца.
 Используя данные модели и данные о прибыльности клиентов, нужно выделить сегменты покупателей и разработать для них персонализированные предложения.
 
-Stack: Phyton, Panda, Numpy, sklearn, Matplotlib.pyplot, Seaborn,  Plotly.express
+Stack: Phyton, Panda, Numpy, Scikit-learn, Matplotlib.pyplot, Seaborn,  Plotly.express
 
 ### [08_HR_analytics](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/08_HR_analytics)
 **Проект** HR аналитика
@@ -46,7 +46,14 @@ Stack: Phyton, Panda, Numpy, sklearn, Matplotlib.pyplot, Seaborn,  Plotly.expres
 Задача: На основе данные с характеристиками сотрудников компании построить модель предсказания уровня удовлетворённости сотрудника.
 С учетом полученного уровня удовлетворенности построить модель предсказания увольнения сотрудника из компании.
 
-Stack: Python, Pandas, Numpy, sklearn, SciPy, Matplotlib.pyplot, Seaborn,  Plotly.express
+Stack: Python, Pandas, Numpy, Scikit-learn, SciPy, Matplotlib.pyplot, Seaborn,  Plotly.express
+
+### [09_oil_region_survey](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/09_oil_region_survey)
+**Проект** Машинное обучение в бизнесе
+
+Задача: На основе предоставленных данных проб нефти и характеристик скважин в трёх регионах, постройте модель машинного обучения, которая поможет определить регион, где добыча нефти принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap.
+
+Stack: Python, Pandas, Scikit-learn, Bootstrap, Numpy, Matplotlib, SciPy
 
 
 
