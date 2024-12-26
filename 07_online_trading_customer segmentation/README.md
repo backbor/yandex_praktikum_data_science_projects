@@ -12,4 +12,3 @@
 
 Ключевые слова: классификация, подбор гиперпараметров, выбор модели МО
 
-https://github.com/backbor/FG_clients_segmentation
