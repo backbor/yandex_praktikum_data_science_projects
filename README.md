@@ -38,5 +38,13 @@ Stack: Phyton, Panda, Numpy,  matplotlib.pyplot, seaborn,  plotly.express
 Нужно построить модель, которая предскажет вероятность снижения покупательской активности клиента в следующие три месяца.
 Используя данные модели и данные о прибыльности клиентов, нужно выделить сегменты покупателей и разработать для них персонализированные предложения.
 
-Stack: Phyton, Panda, Numpy, sklearn, matplotlib.pyplot, seaborn,  plotly.express 
+Stack: Phyton, Panda, Numpy, sklearn, Matplotlib.pyplot, Seaborn,  Plotly.express
+
+### [08_HR_analytics](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/08_HR_analytics)
+**Проект** HR ана
+
+Задача: На основе данные с характеристиками сотрудников компании построить модель предсказания уровня удовлетворённости сотрудника.
+С учетом полученного уровня удовлетворенности построить модель предсказания увольнения сотрудника из компании.
+
+Stack: Python, Pandas, Numpy, sklearn, SciPy, Matplotlib.pyplot, Seaborn,  Plotly.express
 
