@@ -55,5 +55,9 @@ Stack: Python, Pandas, Numpy, Scikit-learn, SciPy, Matplotlib.pyplot, Seaborn,  
 
 Stack: Python, Pandas, Scikit-learn, Bootstrap, Numpy, Matplotlib, SciPy
 
+### [10_house_price_prediction (Big_Data)](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/10_house_price_prediction (Big_Data))
+**Проект** BigData
 
+Задача: В проекте вам нужно обучить модель линейной регрессии на данных о жилье в Калифорнии в 1990 году. На основе данных нужно предсказать медианную стоимость дома в жилом массиве. 
 
+Stack: Python, Pandas, Spark 
