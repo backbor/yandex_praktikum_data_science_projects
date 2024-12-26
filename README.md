@@ -24,9 +24,19 @@ Stack: Python, Pandas, Numpy, Matplotlib, Seaborn
 Stack: Phyton, Pandas, Numpy,  Matplotlib.pyplot, Seaborn,  Plotly.express
 
 ### [05_scooter_rental_services_survey](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/05_scooter_rental_services_survey)
-**Проект** Исследование надёжности заёмщиков — анализ банковских данных
+**Проект** Статистический анализ данных
 
 Задача:
 Проанализировать данные и проверить ряд гипотез, которые могут помочь бизнесу GoFast (аренда самокатов) вырасти.
 
 Stack: Phyton, Panda, Numpy,  matplotlib.pyplot, seaborn,  plotly.express 
+
+### [07_online_trading_customer segmentation](https://github.com/backbor/yandex_praktikum_data_science_projects/tree/main/07_online_trading_customer segmentation)
+**Проект** Обучение с учителем
+
+Задача: Разработать решение, которое позволит персонализировать предложения постоянным клиентам, чтобы увеличить их покупательскую активность.
+Нужно построить модель, которая предскажет вероятность снижения покупательской активности клиента в следующие три месяца.
+Используя данные модели и данные о прибыльности клиентов, нужно выделить сегменты покупателей и разработать для них персонализированные предложения.
+
+Stack: Phyton, Panda, Numpy, sklearn, matplotlib.pyplot, seaborn,  plotly.express 
+
